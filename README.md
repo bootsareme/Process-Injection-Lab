@@ -1,5 +1,5 @@
 # Process Injection Lab
-Open the `.sln` in Visual Studio 2022+ and build the project in *Release* mode. The executables are outputted to `x64/Release`.
+Open the `.sln` in Visual Studio 2022+ and build the project in *Release* mode. The library and executables are generated in `x64/Release`. Select a project (its name should be bolded) to run it in the IDE itself.
 
 ## Projects
 
